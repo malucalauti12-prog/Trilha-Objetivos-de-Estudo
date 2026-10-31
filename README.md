@@ -1,54 +1,48 @@
 # 🌱 Trilha Viva — Objetivos de Estudo
 
-**Sua jornada de estudos, passo a passo.**
+Aplicação web desenvolvida para ajudar estudantes a organizar seus objetivos de estudo, acompanhar seu progresso e planejar uma rotina de aprendizado. O projeto combina ferramentas de organização com recursos de inteligência artificial para tornar o planejamento mais prático e personalizado.
 
-O Trilha Viva é uma aplicação web desenvolvida para ajudar estudantes a organizar seus objetivos de estudo, acompanhar seu progresso e manter uma rotina de aprendizagem mais organizada e produtiva.
+## 🚀 Demonstração online
 
-O projeto foi desenvolvido durante a **Imersão Engenharia de Software: Dev na Era da IA, da Alura (2026)**, com o auxílio do Google AI Studio.
+**[Acesse a Trilha Viva](https://trilha-gestor-de-objetivos.onrender.com/)**
 
-## 📸 Demonstração
+Experimente a aplicação diretamente pelo navegador.
 
-![Tela do Calcify](./trilha.png)
+## ✨ Funcionalidades
 
-
-# 🚀 Acesse o projeto
-
-**[Clique aqui para acessar a Trilha Viva](https://trilha-gestor-de-objetivos.onrender.com/)**
-
-
-# ✨ Funcionalidades
-
-- 📚 Gerenciamento de objetivos: cadastre, edite e exclua objetivos de estudo.
-- 🎯 Acompanhamento de progresso: visualize suas metas em andamento e concluídas.
-- 📊 Painel de desempenho: acompanhe seus objetivos e sua evolução.
-- 🔎 Busca e filtros: encontre objetivos por título, matéria ou anotação.
-- 📅 Controle de prazos: acompanhe datas de entrega e receba notificações de prazos próximos.
-- 🗂️ Categorias personalizadas: organize seus objetivos de acordo com suas necessidades.
-- 🤖 Planejamento inteligente: utilize recursos de inteligência artificial para auxiliar na organização dos estudos.
-- ☁️ Sincronização entre dispositivos: acesse seus dados em diferentes dispositivos.
-- 💾 Salvamento de dados: mantenha seus objetivos salvos.
-- 📦 Backup de dados: exporte seus objetivos para um arquivo JSON.
+- **Gerenciamento de objetivos:** crie, edite, exclua e acompanhe suas metas de estudo.
+- **Acompanhamento de progresso:** visualize a evolução dos objetivos e o andamento das atividades.
+- **Painel de controle:** consulte informações importantes sobre sua rotina de estudos.
+- **Busca e filtros:** encontre objetivos com mais facilidade.
+- **Prazos e lembretes:** organize seus estudos considerando as datas definidas.
+- **Categorias personalizadas:** agrupe objetivos de acordo com suas necessidades.
+- **Planejamento com IA:** gere sugestões de planos de estudo e refine seus objetivos com auxílio de inteligência artificial.
+- **Sincronização:** transfira seus dados entre dispositivos utilizando códigos de sincronização.
+- **Backup de dados:** exporte suas informações em formato JSON.
 
 ## 🛠️ Tecnologias utilizadas
 
-- React
-- TypeScript
-- HTML5
-- CSS
-- Vite
-- Tailwind CSS
-- Node.js
-- Express
-- Google Gemini API
+- **React** — construção da interface.
+- **TypeScript** — tipagem e organização do código.
+- **Vite** — ambiente de desenvolvimento e build.
+- **Tailwind CSS** — estilização da interface.
+- **Node.js e Express** — estrutura do servidor.
+- **Google Gemini API** — integração com inteligência artificial.
 
-## 🎯 Objetivo do projeto
+## 💡 Sobre o desenvolvimento
 
-Facilitar a organização dos estudos, o acompanhamento de metas pessoais e o planejamento da rotina de aprendizagem.
+A Trilha Viva é um projeto autoral desenvolvido para colocar em prática conhecimentos de desenvolvimento web, integração com APIs e criação de soluções voltadas a problemas reais.
 
-## 👩‍💻 Autoria
+Durante o desenvolvimento, foram explorados conceitos como gerenciamento de estado, organização de componentes, persistência e sincronização de dados, além da integração de recursos de inteligência artificial com auxílio do Google AI Studio.
 
-Projeto desenvolvido por **Maria Luiza**, durante a **Imersão Engenharia de Software: Dev na Era da IA — Alura, Out. 2026**.
+## 🔮 Melhorias futuras
+
+- Aprimorar a experiência em dispositivos móveis.
+- Expandir os recursos de planejamento de estudos.
+- Adicionar novas formas de acompanhar o progresso.
 
 ---
+
+**Projeto pessoal desenvolvido com foco em aprendizado, organização e produtividade nos estudos.**
 
 🌱 **Trilha Viva — pequenos passos, grandes conquistas.**
