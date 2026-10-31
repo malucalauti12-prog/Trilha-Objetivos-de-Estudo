@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Calcify (Projeto separado de Calculadora em Python)
+# Mantenha ignorado aqui para não misturar com o repositório da Trilha Viva
+calcify/

@@ -1,0 +1,7 @@
+{
+  "name": "Trilha - Gestor de Objetivos de Estudo",
+  "description": "Aplicação intuitiva e acolhedora para estudantes iniciantes cadastrarem, organizarem e acompanharem seus objetivos de estudo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
