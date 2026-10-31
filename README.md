@@ -6,6 +6,11 @@ O Trilha Viva é uma aplicação web desenvolvida para ajudar estudantes a organ
 
 O projeto foi desenvolvido durante a **Imersão Engenharia de Software: Dev na Era da IA, da Alura (2026)**, com o auxílio do Google AI Studio.
 
+## 📸 Demonstração
+
+![Tela do Calcify](./trilha.png)
+
+
 # 🚀 Acesse o projeto
 
 **[Clique aqui para acessar a Trilha Viva](https://trilha-gestor-de-objetivos.onrender.com/)**
