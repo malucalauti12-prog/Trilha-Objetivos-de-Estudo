@@ -4,6 +4,8 @@ Aplicação web desenvolvida para ajudar estudantes a organizar seus objetivos d
 
 ## 🚀 Demonstração online
 
+![Tela do Calcify](./trilha.png)
+
 **[Acesse a Trilha Viva](https://trilha-gestor-de-objetivos.onrender.com/)**
 
 Experimente a aplicação diretamente pelo navegador.
